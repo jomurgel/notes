@@ -3,10 +3,10 @@
 # Development
 Development resources, in no particular order of importance, separated by use or languages.
 
-- [Favorites](favorites.md#developer-tools)
-- [Snippets](#snippets)
 - [Packages](#packages)
 - [Resources](#resources)
+- [Snippets](#snippets)
+- [Tools](favorites.md#developer-tools)
 
 ## Snippets
 Helpful snippets organized by language.
