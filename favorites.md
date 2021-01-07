@@ -36,7 +36,7 @@ I don't know that I could pick just one. A few I really love and get excited for
 ## Podcast
 As of this moment [Hey, Riddle Riddle](https://www.heyriddleriddle.com/), because shoot, those people are talented.
 
-## Commedian
+## Comedian
 [Mike Birbiglia](https://open.spotify.com/artist/7LA4bHpsuQA1bNuxHpqeIT?si=n3OrnmO-T42LJBa5CLrslQ).
 
 ## Photographer
