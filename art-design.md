@@ -17,3 +17,6 @@ Design resources, memorable individuals, etc, in no particular order of importan
 
 ### Typographers
 - [Jessica Hische](https://www.jessicahische.is/)
+
+## Tools
+See [Favorites](https://github.com/jomurgel/notes/blob/main/favorites.md#design--photography-tools).
