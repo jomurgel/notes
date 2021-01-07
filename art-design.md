@@ -13,7 +13,7 @@ Design resources, memorable individuals, etc, in no particular order of importan
 - [Madie Arts](https://madiearts.bigcartel.com/)
 - [Mike Mitchell](https://linktr.ee/mikemitchell)
 - [Sara Golish](https://www.saragolish.com/sundust-collection)
-- [Stella Im Hultberg](https://www.stellaimhultberg .com/)
+- [Stella Im Hultberg](https://www.stellaimhultberg.com/)
 
 ### Typographers
 - [Jessica Hische](https://www.jessicahische.is/)
