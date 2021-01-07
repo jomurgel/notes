@@ -6,3 +6,4 @@ A collection of personal and professional notes, links, and all the little thing
 - [Development](development.md)
 - [Photography](photography.md)
 - [Favorites](favorites.md)
+- [Recipes](recipes.md)
