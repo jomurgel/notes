@@ -2,7 +2,7 @@
 A collection of personal and professional notes, links, and all the little things I have no want to keep in my memory palace.
 
 ## Contact
-You can reach me via email at hello [at] jomurgel.com. The only social network I use anymore is [Instagram](https://www.instagram.com/jomurgel/) which I use only occationally.
+You can reach me on my website (hopefully updated soon) at [jomurgel.com](https://jomurgel.com) or via email at hello[@]jomurgel.com. The only social network I use anymore is [Instagram](https://www.instagram.com/jomurgel/) which I use only occationally.
 
 ## Sections
 - [Art & Design](art-design.md)
