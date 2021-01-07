@@ -30,6 +30,7 @@ Helpful npm or git packages in no particular order, separated by language.
 
 ### jQuery
 - [Scrollme](http://scrollme.nckprsn.com/): A simple lightweight  animation library activated on scroll controlled by attributes.
+- [Grid Loading Animations](https://tympanus.net/Development/GridLoadingAnimations/): Fun grid-loading animations, based around masonry.
 
 ### React
 - [react-visibility-sensor](https://github.com/joshwnj/react-visibility-sensor): Detects element's visiblity in the viewport.
@@ -39,6 +40,12 @@ Helpful npm or git packages in no particular order, separated by language.
 
 ## Resources
 Resources sorted by language in particular order.
+
+### CSS
+- [Subtile Hover Effects](https://tympanus.net/Development/HoverEffectIdeas/): Simple, but effective image hover effects.
+
+### JavaScript
+- [Keycodes Checker](http://keycode.info/): Get JavaScript Event KeyCodes in your browser.
 
 ### PHP
 - [Escaping](https://tomjn.com/escaping/)
