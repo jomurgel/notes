@@ -22,7 +22,7 @@ My music tastes ebb and flow far too much for me to be able to pick just one art
 [Kintsugi](https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw?si=x-fq2btXSO-DxK0xZWIMLg) by Death Cab for Cutie always feels like an album I need when I need a chill vibe. I also really love [Once Upon a Time](shttps://open.spotify.com/album/4OgfrjaQ0GKEbrxGHVoaEo?si=TyHYS_hfQjmqWwqMgKySeA) by Feeling Left Out. I also find [At War](https://open.spotify.com/album/0FIrp25I4U3bE6glOGq9qi?si=W3StxqYuRYu3oaLynDNKBw) by This Love to be kind of cathartic when I need it to be.
 
 ## Musical
-- Wicked.
+Wicked.
 
 ## Book
 I think I'd have to say, as of 2021, Ready Player One by Ernest Cline. I'm excited to read Ready Player Two.
@@ -37,7 +37,7 @@ I don't know that I could pick just one. A few I really love and get excited for
 As of this moment [Hey, Riddle Riddle](https://www.heyriddleriddle.com/), because shoot, those people are talented.
 
 ## Commedian
-- [Mike Birbiglia](https://open.spotify.com/artist/7LA4bHpsuQA1bNuxHpqeIT?si=n3OrnmO-T42LJBa5CLrslQ)
+[Mike Birbiglia](https://open.spotify.com/artist/7LA4bHpsuQA1bNuxHpqeIT?si=n3OrnmO-T42LJBa5CLrslQ).
 
 ## Photographer
 [Ruth Bernhard](https://en.wikipedia.org/wiki/Ruth_Bernhard), no contest. Close seconds would be [J. Isobel Delisle](https://www.instagram.com/jisobeldelisle/?hl=en) or [Jingna Zhang](https://www.zhangjingna.com/) right now.
