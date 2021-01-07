@@ -48,6 +48,7 @@ Arrival, starring Amy Adams and Jeremy Renner, directed by Denis Villeneuve, and
 
 ## Productivity Tool
 - [Alfred](https://www.alfredapp.com/)
+- [Bartender](https://www.macbartender.com/): Just like me a clean menubar.
 - [Magnet](https://magnet.crowdcafe.com/)
 - [Paste](https://pasteapp.io/)
 - [PixelSnap](https://getpixelsnap.com/)
