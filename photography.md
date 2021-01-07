@@ -19,3 +19,6 @@ Photography resources, memorable individuals, etc, in no particular order of imp
 - [Nishe](http://blog.nishe.net/contact/)
 - [Ruth Bernhard](https://en.wikipedia.org/wiki/Ruth_Bernhard): My #1 [favorite](favorites.md) photographer.
 - [Savannah Buswell](http://www.savvy.photo/)
+
+## Tools
+See [Favorites](https://github.com/jomurgel/notes/blob/main/favorites.md#design--photography-tools).
