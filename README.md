@@ -11,7 +11,7 @@ I am an artist, designer, and illustrator by school, but also by interest. Conta
 By day I'm a Senior User Experience Developer at [Alley](https://alley.co) working primarily with [WordPress](https://wordpress.org), [React](https://reactjs.org/), and the usual frontend developer tools. This contains snippets, packages, resources, and other lists in service of that work.
 
 ## [Photography](photography.md)  
-Occationally I'm a photographer. I love photography and some of the moments it can capture. This contains a running list of photographers, inspiration, and resources in services of photography.
+Occasionally I'm a photographer. I love photography and some of the moments it can capture. This contains a running list of photographers, inspiration, and resources in services of photography.
 
 ## [Favorites](favorites.md)  
 For whatever reason I'm always asked what my favorite things are. Now you can read about them so I don't have to remember.
