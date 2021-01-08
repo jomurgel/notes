@@ -9,7 +9,7 @@ You can reach me on my website (hopefully updated soon) at [jomurgel.com](https:
 I am an artist, designer, and illustrator by school, but also by interest. Contains lists of artists or designers or tools or resources for art, design, illustration, typography, or anything unrelated to photography. Check that out [here](photography.md).
 
 - [Development](development.md)
-By day I'm a Senior User Experience Developer at [Alley](https://alley.co) working primarily with [WordPress](https://wordpress.org), [React](https://reactjs.org/), and the usual frontend developer tools. This contains snippes, packages, resources, and other lists in service of that work.
+By day I'm a Senior User Experience Developer at [Alley](https://alley.co) working primarily with [WordPress](https://wordpress.org), [React](https://reactjs.org/), and the usual frontend developer tools. This contains snippets, packages, resources, and other lists in service of that work.
 
 - [Photography](photography.md)
 Occationally I'm a photographer. I love photography and some of the moments it can capture. This contains a running list of photographers, inspiration, and resources in services of photography.
