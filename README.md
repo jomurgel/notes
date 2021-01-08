@@ -2,7 +2,7 @@
 A collection of personal and professional notes, links, and all the little things I have no want to keep in my memory palace.
 
 ## Contact
-You can reach me on my website (hopefully updated soon) at [jomurgel.com](https://jomurgel.com) or via email at hello[@]jomurgel.com. The only social network I use anymore is [Instagram](https://www.instagram.com/jomurgel/) which I use only occationally.
+You can reach me on my website (hopefully updated soon) at [jomurgel.com](https://jomurgel.com) or via email at hello[@]jomurgel.com. The only social network I use anymore is [Instagram](https://www.instagram.com/jomurgel/) which I still use only occationally.
 
 ## [Art & Design](art-design.md)  
 I am an artist, designer, and illustrator by school, but also by interest. Contains lists of artists or designers or tools or resources for art, design, illustration, typography, or anything unrelated to photography. Check that out [here](photography.md).
