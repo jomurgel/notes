@@ -12,6 +12,7 @@ Design resources, memorable individuals, etc, in no particular order of importan
 - [MC Baldassari](https://www.mcbaldassari.com/illustrations)
 - [Madie Arts](https://madiearts.bigcartel.com/)
 - [Mike Mitchell](https://linktr.ee/mikemitchell)
+- [Pernille Ørum](https://www.pernilleoe.dk/)
 - [Sara Golish](https://www.saragolish.com/sundust-collection)
 - [Stella Im Hultberg](https://www.stellaimhultberg.com/)
 
