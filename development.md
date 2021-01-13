@@ -40,7 +40,7 @@ Helpful snippets organized by language.
 ### PHP
 - [Recursively search array](https://gist.github.com/jomurgel/6390fd38d2b217640a274603b823f504)
 
-## Server Configs
+### Server Configs
 - [FTP Fix](https://gist.github.com/jomurgel/9daa972c7990f322859a8d73c9bbc8e9): Technically a WordPress fix.
 - [LetsEncrypt](https://gist.github.com/jomurgel/083eaca8559f5391e9d8a514985244af)
 
