@@ -20,7 +20,7 @@ Design resources, memorable individuals, etc, in no particular order of importan
 - [Jessica Hische](https://www.jessicahische.is/)
 
 ### Needleworkers
-- [Clara Raurich](https://www.instagram.com/pussie_toys/?hl=en) with Pussie Toys(http://pussietoys.es/)
+- [Clara Raurich](https://www.instagram.com/pussie_toys/?hl=en) | [Pussie Toys](http://pussietoys.es/)
 
 ## Tools
 See [Favorites](https://github.com/jomurgel/notes/blob/main/favorites.md#design--photography-tools).
