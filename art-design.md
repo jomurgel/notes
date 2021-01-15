@@ -16,11 +16,14 @@ Design resources, memorable individuals, etc, in no particular order of importan
 - [Sara Golish](https://www.saragolish.com/sundust-collection)
 - [Stella Im Hultberg](https://www.stellaimhultberg.com/)
 
-### Typographers
-- [Jessica Hische](https://www.jessicahische.is/)
-
 ### Needleworkers
 - [Clara Raurich](https://www.instagram.com/pussie_toys/?hl=en) | [Pussie Toys](http://pussietoys.es/)
+
+### Sculptors
+- [Lou Li Rong](https://www.instagram.com/luo_li_rong_art)
+
+### Typographers
+- [Jessica Hische](https://www.jessicahische.is/)
 
 ## Tools
 See [Favorites](https://github.com/jomurgel/notes/blob/main/favorites.md#design--photography-tools).
