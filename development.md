@@ -76,6 +76,7 @@ Resources sorted by language in particular order.
 
 ### JavaScript
 - [Keycodes Checker](http://keycode.info/): Get JavaScript Event KeyCodes in your browser.
+- [Nanobar](http://nanobar.jacoborus.codes/): Super-simple progress bar. Lightweight and Vanilla JS.
 - [Slim Select](https://github.com/brianvoe/slim-select): Lightweight Chosen or Select2 alternative written in Vanilla JS.
 - [Vanilla DatePicker](https://github.com/mymth/vanillajs-datepicker): Vanilla JS alternative to jQuery's DatePicker.
 
