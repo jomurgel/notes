@@ -13,11 +13,11 @@ By day I'm a Senior User Experience Developer at [Alley](https://alley.co) worki
 ## [Photography](photography.md)  
 Occasionally I'm a photographer. I love photography and some of the moments it can capture. This contains a running list of photographers, inspiration, and resources in services of photography.
 
+## [Various](various.md)
+All the stuff I wasn't sure where to put it. Cleaning notes, gifs... the list is random...
+
 ## [Favorites](favorites.md)  
 For whatever reason I'm always asked what my favorite things are. Now you can read about them so I don't have to remember.
 
 ## [Recipes](recipes.md)  
 On and off of diet, I like to cook. This will service as my cookbook.
-
-## [Various](various.md)
-All the stuff I wasn't sure where to put it. Cleaning notes, gifs... the list is random...
