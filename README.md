@@ -18,3 +18,6 @@ For whatever reason I'm always asked what my favorite things are. Now you can re
 
 ## [Recipes](recipes.md)  
 On and off of diet, I like to cook. This will service as my cookbook.
+
+## [Various](various.md)
+All the stuff I wasn't sure where to put it. Cleaning notes, gifs... the list is random...
