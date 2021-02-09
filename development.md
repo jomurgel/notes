@@ -29,6 +29,7 @@ Helpful snippets organized by language.
 
 ### Git
 - [Git CheatSheet](https://gist.github.com/jomurgel/5697418b6bb7e0403341ae266e82195d)
+- [Get and Apply Patch from Diff](https://gist.github.com/jomurgel/9366a93fde97466cf0f539ec13388ade)
 
 ### Gutenberg
 - [Lock Post Until a Term is Selected](https://gist.github.com/jomurgel/b75fa16c5c494fcb1bc44ffa3a60269d)
