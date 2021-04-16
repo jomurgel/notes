@@ -54,6 +54,7 @@ Helpful snippets organized by language.
 - [Modify the WP Global Search Endpoint Response](https://gist.github.com/jomurgel/df011064e5a563526d0ab78503bcd875)
 - [Register CPT or Taxonomy](https://gist.github.com/jomurgel/68cba8be424aa2e45168788598bacfe5)
 - [Register Postmeta Schema and Callback](https://gist.github.com/jomurgel/0f1340f5ef8013fe8be36815fc024f79)
+- [Rewrite Custom Post Type to Base URL](https://gist.github.com/jomurgel/7854da137d9faae0f2d18c9a79aade44)
 
 ## Packages
 Helpful npm or git packages in no particular order, separated by language.
