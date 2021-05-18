@@ -34,6 +34,7 @@ Helpful snippets organized by language.
 ### Gutenberg
 - [Lock Post Until a Term is Selected](https://gist.github.com/jomurgel/b75fa16c5c494fcb1bc44ffa3a60269d)
 - [SelectControl List of US States](https://gist.github.com/jomurgel/4b4f7cf6713113630b7f9da3a0d63afe)
+- [Make only certain colors available to color palette per post types](https://gist.github.com/jomurgel/ea2930cf911e35a2abf077963abf3208)
 
 ### React
 - [useStateWithCallback](https://gist.github.com/jomurgel/4c56ce1492b0247ade013c7fcf2550b1)
