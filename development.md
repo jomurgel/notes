@@ -69,6 +69,7 @@ Helpful npm or git packages in no particular order, separated by language.
 - [react-indiana-drag-scroll](https://github.com/norserium/react-indiana-drag-scroll): React draggable and scrollable container. Easy, simple, and avoids use of the window object. Goots™ compatible.
 - [react-selectrix](https://stratos-vetsos.github.io/react-selectrix/): React select dropdown without reliance on the window object. Goots™ compatible.
 - [react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg): Best option for creating a `RichText` field with React. Goots™ compatible.
+- [react-icons](https://react-icons.github.io/react-icons): A library of React-ready icons.
 
 ## Resources
 Resources sorted by language in particular order.
