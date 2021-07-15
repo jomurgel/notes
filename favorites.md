@@ -37,6 +37,16 @@ I think I'd have to say, as of 2021, Ready Player One by Ernest Cline. I'm excit
 - [Pixelmator](https://www.pixelmator.com/pro/)
 - [Sketch](https://www.sketch.com/): Primarily UI design.
 
+- [Affinity Designer](https://affinity.serif.com/en-us/): Adobe Illustrator alternative
+- [Affinity Photo](https://affinity.serif.com/en-us/): Adobe Photoshop alternative
+- [Affinity Publisher](https://affinity.serif.com/en-us/): Adobe Indesign alternative
+- [Luminar](https://skylum.com/luminar-try): Adobe Lightroom alternative
+- [Pixelmator](https://www.pixelmator.com/pro/): A good combo Illustrator and Photoshop alternative. A good all around graphics tool.
+- [Vectornator](https://www.vectornator.io/): A simplified Adobe Illustrator alternative for makign vector graphics.
+- [Sketch](https://www.sketch.com/): Primarily UI design could replace Illustrator and Photoshop in some cases.
+- [FilmoraPro](https://filmora.wondershare.com/): Video editing. Adobe Premiere alternative.
+- [Blender](https://www.blender.org/): So far the best option I've found for replacing Adobe After effects, though I'm a n00b at this.
+
 ## Food
 Pizza, a good club sandwich, Kraft Mac & Chee, or any gas station hot dog.
 
