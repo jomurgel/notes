@@ -34,7 +34,7 @@ I think I'd have to say, as of 2021, Ready Player One by Ernest Cline. I'm excit
 ## Design & Photography Tools
 - [Affinity Designer, Photo, and Publisher](https://affinity.serif.com/en-us/): My Adobe Illustrator, Photoshop, and InDesign alternatives.
 - [Luminar](https://skylum.com/luminar-try)
-- [Pixelmator](https://www.pixelmator.com/pro/
+- [Pixelmator](https://www.pixelmator.com/pro/)
 - [Sketch](https://www.sketch.com/): Primarily UI design.
 
 ## Food
