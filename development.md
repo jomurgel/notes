@@ -89,3 +89,6 @@ Resources sorted by language in particular order.
 
 ### React
 - [React Testing Framework](https://github.com/testing-library/react-testing-library)
+
+### WordPress
+- [W3cubDocs](https://docs.w3cub.com/wordpress/functions/_): A better codex for WordPress functions, classes, and hooks.
