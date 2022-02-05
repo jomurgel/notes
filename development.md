@@ -15,6 +15,7 @@ Helpful snippets organized by language.
 - [Download File Via SSH](https://gist.github.com/jomurgel/5220e75af85a4a4dd30351d510b04987)
 - [Production Images in Laravel Valet](https://gist.github.com/jomurgel/4d774da056f9271edd28e4f30ad6f39f)
 - [Split Branch](https://gist.github.com/jomurgel/45b355792ff65b62c67fff84f34060b7)
+- [Log Build Errors](https://gist.github.com/jomurgel/53524ec3b2312dceee2fcb692734f510)
 
 ### S|CSS
 - [Simple Media Query](https://gist.github.com/jomurgel/c2eb29c6203ce6478015b39138a8e2af)
