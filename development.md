@@ -75,6 +75,9 @@ Helpful npm or git packages in no particular order, separated by language.
 ## Resources
 Resources sorted by language in particular order.
 
+### General
+- [Aspect Ratio Calculator](https://andrew.hedges.name/experiments/aspect_ratio/): Calculate image ratio for a given image width and height.
+
 ### CSS
 - [Sanitize.scss](https://gist.github.com/jomurgel/88084c6f3c10de5e47a9238087508e63)
 - [Subtile Hover Effects](https://tympanus.net/Development/HoverEffectIdeas/): Simple, but effective image hover effects.
