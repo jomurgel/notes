@@ -2,6 +2,9 @@
 
 # Various
 
+## Keyboard
+I'm currently using a [Corne](https:://github.com/foostan/crkbd) with [my own custom keymap](https://github.com/jomurgel/my-corne-keymap).
+
 ## ZHAIFs
 [↑ Backstory on the pronunciation of GIF](https://www.youtube.com/watch?v=bmqy-Sp0txY)
 
